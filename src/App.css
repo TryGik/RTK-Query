@@ -1,7 +1,12 @@
 .App {
-  text-align: center;
+  margin: 0 auto;
+  padding: 50px;
 }
 
 ul {
   list-style: none;
+}
+
+li {
+  cursor: pointer;
 }
